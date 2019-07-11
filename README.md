@@ -83,7 +83,7 @@
 - 可定制, 灵活, 强大
 - 支持 SSR (目前还在beta阶段）
 
-如果你项目中的表格均需要分页、筛选、过滤等操作，请用它！
+如果你项目中的表格均需要分页、筛选、过滤等操作，请用它！
 
 （`egrid-element-table` 和 `vue-data-tables` 能一起用，参考此 [issue](https://github.com/njleonzhang/vue-data-tables/issues/223)）
 
