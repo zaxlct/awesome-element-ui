@@ -42,7 +42,7 @@
 
 ## 表格
 #### [egrid-element-table](https://github.com/zaxlct/egrid-element-table)
-**为什么要用 egrid-element-table？**
+**为什么要用 egrid-element-table？**
 1. 你是否受够了重复一遍又一遍的 `el-table-column` 和 `template scope="scope"`
 ```html
   <el-table
